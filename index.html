@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Key Info Viewer - by Faizan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>🔤 Key Event Inspector</h1>
+  <p>Type in the box below and see key details</p>
+  <input type="text" id="keyInput" autofocus placeholder="Press any key..." />
+
+  <div class="output" id="resultBox" style="display: none;">
+    <p><strong>Key Pressed:</strong> <span id="keyPressed"></span></p>
+    <p><strong>Code:</strong> <span id="keyCode"></span></p>
+    <p><strong>Key Code:</strong> <span id="keyKeyCode"></span></p>
+    <p><strong>ASCII Value:</strong> <span id="asciiValue"></span></p>
+    <p><strong>Char Code:</strong> <span id="charCode"></span></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
