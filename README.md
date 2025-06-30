@@ -17,14 +17,6 @@ A simple, lightweight web app that shows detailed information about any key you 
 
 ---
 
-## 📷 Screenshot
-
-![screenshot](screenshot.png)
-
-*(Add a screenshot if available)*
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download this repository
