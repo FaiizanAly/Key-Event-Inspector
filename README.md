@@ -28,7 +28,7 @@ A simple, lightweight web app that shows detailed information about any key you 
 
 ## 🌐 Live Demo
 
-> (https://key-event-inspector.netlify.app/)
+> [Open Live Demo](https://key-event-inspector.netlify.app/)
 
 ---
 
